@@ -1,0 +1,112 @@
+.header {
+padding: 30px;
+text-align: right;
+background-color: lavender; 
+border-style:solid;
+
+}
+
+.btn-group button {
+  background-color: lightsteelblue;
+  border: 0.5 px black;
+  color: white;
+  padding: 10px 24px;
+ 
+}
+
+form {
+
+background-color: lightsteelblue;
+
+padding:30 px;
+
+width: 30%;
+
+height: 70%;
+
+margin: auto; }
+
+img {
+  display: block;
+  margin: auto;
+  width: 50%;
+}
+
+
+.myworks {
+text-align: center ;
+background-color: lightsteelblue;
+padding:30px;
+border-style: solid;
+
+}
+
+.introduction {
+padding: 30px;
+text-align: center;
+background-color: lightsteelblue;
+border-style: solid; }
+
+.about
+
+{
+
+background-color: lightsteelblue;
+padding:30px;
+border-style: solid;
+text-align: center;
+}
+
+.contacts
+{
+
+padding: 30px;
+background-color: lightsteelblue;
+border-style: solid;
+
+
+
+
+}
+
+
+
+
+
+.section1 {
+
+background-color: lavender;
+text-align: center;
+width: 30%;
+margin: auto;
+}
+
+.about {
+  text-align: center;
+}
+
+.section2 {
+background-color: lavender;
+text-align: center;
+width: 30%;
+margin: auto;
+
+}
+
+.section3 {
+
+background-color: lavender;
+text-align: center;
+width: 30%;
+margin: auto;
+
+}
+.submit {
+
+  background-color: lightsteelblue;
+  border: 0.5 px black;
+  color: white;
+  padding: 10px 24px;
+
+
+}
